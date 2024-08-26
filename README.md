@@ -5,8 +5,9 @@
 <h2>Integrantes</h2>
 <ul>
     <li>Felipe Burgdurf Seelend</li>
-    <li>Brenda Brisola</li>
+    <li>Brenda Brizola</li>
     <li>Victor Machado</li>
+    <li>Arthur Santurio</li>
 </ul>
 
 <h2>Professor</h2>
